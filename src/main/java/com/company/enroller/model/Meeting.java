@@ -84,4 +84,4 @@ public class Meeting {
 		return participants;
 	}
 
-}
+} 
